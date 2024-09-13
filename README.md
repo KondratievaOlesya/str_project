@@ -11,6 +11,12 @@ We are focusing on colorectal cancer, a type of cancer that can be divided into 
 
 ### Literature
 1. Presentation with characteristics of MSI-H, MSS/TMB-H and MSS/TMB-L [[link](https://docs.google.com/presentation/d/1btpGaDmqaFcaVvUyUpp_v7kEHXu7n5NfMNS083s5adA/edit?usp=sharing)]
+2. eSTRs in colorectal cancer. [[paper](https://doi.org/10.1038/s41598-024-53739-0)]
+
+    Verbiest, M.A., Lundström, O., Xia, F. et al. Short tandem repeat mutations regulate gene expression in colorectal cancer. Sci Rep 14, 3331 (2024). https://doi.org/10.1038/s41598-024-53739-0
+
+
+
 
 ## Key questions:
 
